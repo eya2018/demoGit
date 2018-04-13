@@ -4,6 +4,10 @@
  <meta charset="utf-8" />
  <title>Mon site DEMO</title>
  <style type="text/css"> 
+ body{
+	 background-color:#2ecc71;
+	 color:white;
+ }
  h1{
 	 position:absolute;
 	 top:40%;
